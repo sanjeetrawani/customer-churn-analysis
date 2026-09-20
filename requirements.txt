@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Pandas
 NumPy
 Matplotlib
 Seaborn
 Plotly
 sqlalchemy
+=======
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+openpyxl
+>>>>>>> 324f9fa9913dd8a6367123ba01116a765ad8badf
