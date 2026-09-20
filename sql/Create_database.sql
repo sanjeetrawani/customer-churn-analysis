@@ -1,0 +1,8 @@
+CREATE DATABASE IF NOT EXISTS churn_db;
+USE churn_db;
+
+SHOW DATABASES;
+
+SHOW TABLES;
+
+SELECT * FROM customer_churn;
